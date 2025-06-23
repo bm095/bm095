@@ -1,0 +1,19 @@
+id,name,alter,jahr,geschlecht,type
+KF00,Klaus Fiedler,49,2000,2,1
+EH01,EduardHurt,46,2001,2,1
+JF01,JochenFeldmann,40,2001,2,1
+UH,UniversitätHeidelberg,,,,2
+LMU,LudwigMaximiliansUniversitätMünchen,,,,2
+1,EduardBuchnerPreis ,,,,3
+2,FeldbergPreis,,,,3
+3,KulturpreisOstbayern,,,,3
+4,WissenschaftspreisderIndustrieundHandelskammer,,,,3
+5,DissertationspreisderPhilippsUniversitätMarburg,,,,3
+6,GerhardHessPreis,,,,3
+7,WalterSchottkyPreis,,,,3
+8,PhilipMorrisForschungspreis,,,,3
+10,PreisfürexzellenteLehredesFreistaatesBayern,,,,3
+11,KoselleckPreisderDeutschenForschungsgemeinschaft,,,,3
+12,DeutscherPsychologiePreisderDeutschenGesellschaftfürPsychologie,,,,3
+13,DissertationspreisderJustusLiebigUniversitätGießen,,,,3
+14,NanonicaPreis,,,,3
