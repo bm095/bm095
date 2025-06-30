@@ -1,0 +1,49 @@
+---
+title: "Pretest"
+author: "Belinda Mann"
+date: "2025-06-23"
+output: html_document
+---
+```{r Setup, message=FALSE, warning=FALSE, paged.print=FALSE}
+library(tidyverse)
+library(tidygraph)
+library(igraph)
+```
+
+```{r Netzwerk einlesen}
+# Programmbibliothek laden
+library(igraph)
+
+# Einlesen der Edge- und Nodelist
+edges <- read.csv("https://raw.githubusercontent.com/bm095/bm095/refs/heads/main/pretest/prestest_edgelist.csv", header=T, as.is=T, sep = ",")
+
+nodes <- read.csv("https://raw.githubusercontent.com/bm095/bm095/refs/heads/main/pretest/pretest_nodelist.csv", header=T, as.is=T, sep = ",")
+
+# Matrix erstellen
+edgematrix <-as.matrix(edges)
+
+# Zusammenführen von Edge- und Nodelist als igraph-Objekt sp
+lp <- graph_from_data_frame(d=edgematrix, vertices=nodes, directed=F)
+
+# Wandelt igraph in tibble um
+lp <- as_tbl_graph(lp)
+
+# Aufrufen der Netzwerks lp (Leibniz-Preis) 
+lp
+```
+
+```{r Viusalisierung}
+
+# Visualisierung 
+
+plot(lp, 
+  asp = 0,
+  layout = layout_nicely,
+  main = "Pretest", 
+  vertex.color = c("red", "blue", "green")[V(lp)$type],
+  vertex.label.cex = 0.6,       # Verkleinert die Schrift
+  vertex.label.dist = 1.5,      # Erhöht Abstand zum Knoten
+  vertex.label.color = "black"  # Verbessert Lesbarkeit
+)
+
+```
