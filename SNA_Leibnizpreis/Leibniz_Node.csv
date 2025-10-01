@@ -1,0 +1,466 @@
+﻿id,name,geburtsjahr,jahr,geschlecht,type,"Alter, LP gewonnen"
+KF00,Klaus Fiedler,1951,2000,2,1,49
+PG00,"Peter Greil ",1954,2000,2,1,46
+MH00,Matthias Hentze,1960,2000,2,1,40
+PH00,Peter Herzig,1954,2000,2,1,46
+RJ00,"Reinhard Jahn ",1950,2000,2,1,50
+AL00,Aditi Lahiri,1952,2000,1,1,48
+GLW00,Gertrude Lübbe-Wolff,1953,2000,1,1,47
+DL00,Dieter Lüst,1956,2000,2,1,44
+SM00,Stefan Müller,1962,2000,2,1,38
+MP00,Manfred Pinkal,1949,2000,2,1,51
+IS00,"Ilme Schlichting ",1960,2000,1,1,40
+FT00,Friedrich Temps,1955,2000,2,1,45
+MW00,Martin Wegener,1961,2000,2,1,39
+HW00,Hans-Joachim Werner,1950,2000,2,1,50
+JF01,Jochen Feldmann,1961,2001,2,1,40
+EH01,"Eduard Hurt ",1955,2001,2,1,46
+HK01,Hans Keppler,1962,2001,2,1,39
+AK01,"Arthur Konnerth ",1953,2001,2,1,48
+UK01,Ulrich Konrad,1957,2001,2,1,44
+MK01,"Martin Krönke ",1953,2001,2,1,48
+JK01,"Joachim Küpper ",1952,2001,2,1,49
+CM01,Christoph Markschies,1962,2001,2,1,39
+WM01,"Wolfang Marquardt ",1956,2001,2,1,45
+HR01,Helge Ritter,1958,2001,2,1,43
+GZ01,Günther Ziegler,1963,2001,2,1,38
+CBK02,"Carmen Birchmeier-Kohler ",1955,2002,1,1,47
+WD02,"Wolfgang Dahmen ",1949,2002,2,1,53
+WCD02,"Wolf-Christian Dullo ",1954,2002,2,1,48
+BE02,"Bruno Eckhardt ",1960,2002,2,1,42
+MF02,"Michael Famulok ",1960,2002,2,1,42
+CH02,"Christian Haass ",1960,2002,2,1,42
+FH02,"Franz-Ulrich Hartl ",1957,2002,2,1,45
+TH02,"Thomas Hengartner ",1960,2002,2,1,42
+RK02,"Reinhold Kliegl ",1953,2002,2,1,49
+WK02,"Wolfgang Kowalsky ",1958,2002,2,1,44
+KL02,"Karl Leo ",1960,2002,2,1,42
+FV02,"Frank Vollertsen ",1958,2002,2,1,44
+WD03,"Winfried Denk ",1957,2003,2,1,46
+HE03,"Hélène Esnault ",1953,2003,1,1,50
+GH03,"Gerhard Huisken ",1958,2003,2,1,45
+RK03,"Rupert Klein ",1959,2003,2,1,43
+AK03,"Albrecht Koschorke ",1958,2003,2,1,45
+RL03,Roland Lill,1955,2003,2,1,48
+CN03,"Christof Niehrs ",1962,2003,2,1,41
+HS03,"Hans-Peter Seidel ",1958,2003,2,1,45
+FS03,"Ferdi Schüth ",1960,2003,2,1,43
+HW03,"Hubert Wolf ",1959,2003,2,1,44
+EV03,Eckart Viehweg,1948,2003,2,1,55
+FA04,Frank Allgöwer,1962,2004,2,1,42
+GB04,"Gabriele Brandstetter ",1954,2004,1,1,50
+TC04,"Thomas Carell ",1966,2004,2,1,38
+KK04,"Karl Christoph Klauer ",1961,2004,2,1,43
+HM04,"Hannah Monyer ",1957,2004,1,1,47
+NP04,"Nikolaus Pfanner ",1956,2004,2,1,48
+KP04,"Klaus Pfeffer ",1962,2004,2,1,42
+DR04,"Dierk Raabe ",1965,2004,2,1,39
+KS04,"Konrad Samwer ",1952,2004,2,1,52
+JS04,Jürgen Soll,1953,2004,2,1,51
+MS04,"Manfred Strecker ",1955,2004,2,1,49
+PB05,Peter B. Becker,1958,2005,2,1,47
+IB05,Immanuel F. Bloch,1972,2005,2,1,33
+SD05,Stefanie Dimmeler,1967,2005,1,1,38
+JG05,Jürgen Gauß,1960,2005,2,1,45
+GH05,Günther G. Hasinger,1954,2005,2,1,51
+CJ05,Christian Jung,1956,2005,2,1,49
+AO05,Axel Ockenfels,1969,2005,2,1,36
+WP05,"Wolfgang Peukert ",1958,2005,2,1,47
+BSR05,"Barbara Stollberg-Rilinger ",1955,2005,1,1,50
+AT05,Andreas Tünnermann,1963,2005,2,1,42
+MB06,Matthias Beller,1962,2006,2,1,44
+PC06,"Patrick Cramer ",1969,2006,2,1,37
+PJ06,Peter Jonas,1961,2006,2,1,45
+FK06,Ferenc Krausz,1962,2006,2,1,44
+KM06,Klaus Mezger,1958,2006,2,1,48
+TM06,Thomas Mussweiler,1969,2006,2,1,37
+FO06,Felix Otto,1966,2006,2,1,40
+DP06,Dominik Perler,1965,2006,2,1,41
+GR06,Gyburg Radke,1975,2006,1,1,31
+MZ06,Marino Zerial,1958,2006,2,1,48
+PW06,Peter Wasserscheid,1970,2006,2,1,36
+JB07,Jens Claus Brüning,1966,2007,2,1,41
+PB07,Patrick Bruno,1964,2007,2,1,43
+MG07,"Magdalena Götz ",1962,2007,1,1,45
+PG07,"Peter Gumbsch ",1962,2007,2,1,45
+GH07,Gerald Haug,1968,2007,2,1,39
+BJ07,Bernhard Jussen,1959,2007,2,1,48
+GK07,Guinevere Kauffmann,1968,2007,1,1,39
+FL07,Falko Langenhorst,1964,2007,2,1,43
+OP07,Oliver Primavesi,1961,2007,2,1,46
+DW07,"Detlef Weigel ",1961,2007,2,1,46
+SA08,Susanne Albers,1965,2008,1,1,43
+MB08,Martin Beneke,1966,2008,2,1,42
+HB08,Holger Boche,1966,2008,2,1,42
+MC08,Martin Carrier,1955,2008,2,1,53
+EC08,Elena Conti,1967,2008,1,1,41
+HF08,Holger Fleischer,1965,2008,2,1,43
+SH08,Stefan Hell,1962,2008,2,1,46
+EI08,Elisa Izaurralde,1959,2008,1,1,49
+KK08,Klaus Kern,1960,2008,2,1,48
+WL08,Wolfgang Lück,1957,2008,2,1,51
+JM08,Jochen Mannhart,1960,2008,2,1,48
+AB09,Antje Boetius,1967,2009,1,1,42
+HB09,Holger Braunschweig,1961,2009,2,1,48
+WB09,Wolfram Burgard,1961,2009,2,1,48
+HD09,Heinrich Detering,1959,2009,2,1,50
+JE09,Jürgen Eckert,1962,2009,2,1,47
+AF09,Armin Falk,1968,2009,2,1,41
+FK09,Frank Kirchhoff,1961,2009,2,1,48
+JR09,Jürgen Rödel,1958,2009,2,1,51
+KR09,Karl Lenhard Rudolph,1969,2009,2,1,40
+BW09,Burkhard Wilking,1970,2009,2,1,39
+MZ09,Martin R. Zirnbauer,1958,2009,2,1,51
+JB10,Jan Born,1958,2010,2,1,52
+PF10,Peter Fratzl,1958,2010,2,1,52
+RI10,Roman Inderst,1970,2010,2,1,40
+CK10,Christoph Klein,1964,2010,2,1,46
+UL10,Ulman Lindenberger,1961,2010,2,1,49
+FN10,Frank Neese,1967,2010,2,1,43
+JO10,Jürgen Osterhammel,1952,2010,2,1,58
+PS10,Petra Schwille,1968,2010,1,1,42
+ST10,Stefan Treue,1964,2010,2,1,46
+JW10,Joachim Weickert,1965,2010,2,1,45
+UH,Universität Heidelberg,,,,2,
+LMU,Ludwig Maximilians Universität München,,,,2,
+RWTHA,"Rheinisch-Westfälische Technische Hochschule Aachen ",,,,2,
+TUB,Technische Universität Berlin,,,,2,
+UB,Universität Bielefeld,,,,2,
+MPI_BM,MPI für Biochemie in Martinsried,,,,2,
+UBO,Universität Bonn,,,,2,
+MPI_BPC,"MPI für biophysikalische Chemie, Göttingen ",,,,2,
+MPI_EB,"MPI für Entwicklungsbiologie, Tübingen",,,,2,
+MPI_FKF,"MPI für Festkörperforschung, Stuttgart ",,,,2,
+WWU,Universität Münster,,,,2,
+AU,"Universität Augsburg ",,,,2,
+MPI_MM,"MPI für Marine Mikrobiologie, Bremen",,,,2,
+JMU,"Universität Würzburg ",,,,2,
+UFR,Universität Freiburg,,,,2,
+UG,Universität Göttingen,,,,2,
+IFW,Leibniz-Institut für Festkörper- und Werkstoffforschung (IFW) und Technische Universität Dresden,,,,2,
+UU,Universität Ulm,,,,2,
+TUDa,Technische Universität Darmstadt,,,,2,
+UK,Universität zu Köln,,,,2,
+UL,Universität zu Lübeck,,,,2,
+MPI_KG,"MPI für Kolloid- und Grenzflächenforschung, Potsdam",,,,2,
+UF,Universität Frankfurt,,,,2,
+MHH,Medizinische Hochschule Hannover,,,,2,
+MPI_B,"MPI für Bildungsforschung, Berlin",,,,2,
+UKO,Universität Konstanz,,,,2,
+TUD,Technische Universität Dresden,,,,2,
+DPZ,"Deutsches Primatenzentrum, Göttingen",,,,2,
+UdS,Universität des Saarlandes,,,,2,
+FAU,Friedrich Alexander Universität Erlangen Nürnberg,,,,2,
+EMBL,"Europäisches Laboratorium für Molekularbiologie, Heidelberg ",,,,2,
+TUBI,Technische Universität Bergakademie Freiberg,,,,2,
+HUB,"Humboldt-Universität zu Berlin ",,,,2,
+MPI_M,"MPI für Mathematik, Leipzig ",,,,2,
+MPI_MP,"MPI für Molekulare Physiologie, Dortmund",,,,2,
+UKI,"Universität Kiel ",,,,2,
+KIT,Karlsruher Institut für Technologie,,,,2,
+US,Universität Stuttgart,,,,2,
+UT,"Universität Tübingen ",,,,2,
+FUB,"Freie Universität Berlin ",,,,2,
+MDC,"Max-Delbrück-Centrum Berlin ",,,,2,
+UMA,"Universität Marburg ",,,,2,
+UHA,"Universität Hamburg ",,,,2,
+UP,"Universität Potsdam ",,,,2,
+TUBS,"Technische Universität Braunschweig ",,,,2,
+UPB,"Universität Paderborn ",,,,2,
+MPI_MF,"MPI für medizinische Forschung Heidelberg ",,,,2,
+UDE,"Universität Duisburg Essen ",,,,2,
+MPI_GP,"MPI für Gravitationsphysik Potsdam ",,,,2,
+DKFZ,"Deutsches Krebsforschungszentrum Heidelberg ",,,,2,
+MPI_I,"MPI für Informatik Saarbrücken ",,,,2,
+MPI_KF,"MPI für Kohlenforschung Mühlheim ",,,,2,
+HHU,"Heinrich Heine Universität Düsseldorf ",,,,2,
+MPI_EF,"MPI für Eisenforschung Düsseldorf ",,,,2,
+JGU,Universität Mainz,,,,2,
+MPE,"MPI für extraterrestrische Physik Garching ",,,,2,
+IOF,"Fraunhofer-Institut für Angewandte Optik und Feinmechanik Jena ",,,,2,
+LIKAT,"Leibniz-Institut für Organische Katalyse Rostock ",,,,2,
+MPI_CBG,MPI für molekulare Zellbiologie und Genetik Dresden,,,,2,
+MPI_MPH,MPI für Mikrostrukturphysik Halle,,,,2,
+PALEX,"Paläoklimaforschung, GeoForschungsZentrum",,,,2,
+IWM,"Fraunhoferinstitut für Werkstoffmechanik ",,,,2,
+MPA,"MPI für Astrophysik Garching ",,,,2,
+FSU,"Universität Jena ",,,,2,
+2,Feldberg Preis,,,,3,
+4,Wissenschaftspreis der Industrie und Handelskammer,,,,3,
+5,Dissertationspreis der Philipps Universität Marburg,,,,3,
+6,Gerhard Hess Preis,,,,3,
+7,Walter Schottky Preis,,,,3,
+8,Philip Morris Forschungspreis,,,,3,
+10,Preis für exzellente Lehre des Freistaates Bayern,,,,3,
+12,Deutscher Psychologiepreis der Deutschen Gesellschaft für Psychologie,,,,3,
+14,Nanonica Preis,,,,3,
+15,Forschungspreis Technische Kommunikation,,,,3,
+16,Johann-Philipp-Reis-Preis,,,,3,
+17,John-G.-Diefenbaker-Preis,,,,3,
+18,Louis-Jeantet-Preis,,,,3,
+19,Antonio-Feltrinelli-Preis,,,,3,
+20,Gregori-Aminoff-Preis,,,,3,
+21,Ernst-Jung-Preis,,,,3,
+22,Preis der International Commission for Optics,,,,3,
+23,Helmholtz-Preis für Metrologie,,,,3,
+24,Berthold Leibinger Innovationspreis,,,,3,
+25,Carl-Zeiss Forschungspreis,,,,3,
+26,Karl Heinz Beckurts Preis,,,,3,
+27,Preis der Berlin-Brandenburgischen Akademie der Wissenschaften,,,,3,
+28,Deutscher Zukunftspreis,,,,3,
+29," Julius-Springer-Preis für angewandte Physik",,,,3,
+30,Otto-Hahn-Preis,,,,3,
+31,Ernst-Hellmut-Vits-Preis,,,,3,
+32,Familie-Hansen-Preis,,,,3,
+33,Körber-Preis für die Europäische Wissenschaft,,,,3,
+34,Meyenburg Preis,,,,3,
+35,Göteborg Lise Meitner Preis,,,,3,
+36,Wissenschaftspreis der Fritz-Behrens-Stiftung,,,,3,
+37,"Kavli-Preis in Nanowissenschaften ",,,,3,
+38,Nobelpreis für Chemie,,,,3,
+39,Markgräfle Gutedelpreis,,,,3,
+40,Dr.-Edmund-ter-Meer-Preis,,,,3,
+41,"van’t Hoff-Preis ",,,,3,
+42,Max-Planck-Forschungspreis,,,,3,
+43,Dr. Friedrich-Förster-Preis,,,,3,
+44,CMD Europhysics Prize,,,,3,
+45,Hector Wissenschaftspreis,,,,3,
+46,Communicator-Preis,,,,3,
+47,Deutscher Umweltpreis,,,,3,
+48,Erna-Hamburger-Preis,,,,3,
+49,Preis der Klüh Stiftung,,,,3,
+50,Kulturpreis der Eduard-Rhein-Stiftung,,,,3,
+51," Alfred-Stock-Gedächtnispreis",,,,3,
+52,Deutscher KI-Preis,,,,3,
+53,Lippischer Kulturpreis,,,,3,
+54,Preis für Prosa beim Nordrhein-Westfälischen Autorentreffen,,,,3,
+55,Wissenschaftlichen Förderpreis der Raabe-Gesellschaft,,,,3,
+56,Preis des Landeskulturverbandes Schleswig-Holstein für die Liliencron-Poetikdozentur,,,,3,
+57,Julius-Campe-Preis der Kritik,,,,3,
+58,Wissenschaftspreis der Stadt Kiel,,,,3,
+59,Hans-Christian-Andersen-Preis,,,,3,
+60,Niedersächsischer Staatspreis,,,,3,
+61,Günter Kunert Literaturpreis für Lyrik,,,,3,
+62,Georg-Sachs-Preis,,,,3,
+63,Forschungspreis des IFW Dresden,,,,3,
+64,DGM-Preis der Deutschen Gesellschaft für Materialkunde e.V,,,,3,
+65,Preis des Institut für Empirische Wirtschaftsforschung der Universität Zürich,,,,3,
+67,Yrjö-Jahnsson-Preis,,,,3,
+68,Ernst Schering Preis,,,,3,
+69,Heinz-Maier-Leibnitz-Preis,,,,3,
+70,Monika-Kutzner-Wissenschaftspreis für Krebsforschung,,,,3,
+71,René-Schubert-Preis,,,,3,
+72,Wilhelm-Vaillant Preis in Molekularer Medizin,,,,3,
+73,Wissenschaftspreis: Gesellschaft braucht Wissenschaft,,,,3,
+74,"Deutscher Krebspreis der Deutschen Krebsgesellschaft ",,,,3,
+75,Forschungspreis Universität Münster,,,,3,
+76,Karl-Georg-Christian-von-Staudt-Preis,,,,3,
+77,Oswald-Külpe-Preis,,,,3,
+78,Kind-Philipp-Preis,,,,3,
+79,GlaxoSmithKline Prize,,,,3,
+80,Rudolf Schoen-Preis,,,,3,
+81,Adalbert-Czerny-Preis,,,,3,
+82,Eva Luise Köhler Forschungspreis,,,,3,
+83,Paul-Martini-Preis,,,,3,
+84,Wiliam Dameshek Prize,,,,3,
+85,Prix Jean Kuntzmann der Universität Grenoble,,,,3,
+86,Cusanus-Preis,,,,3,
+87,Preis für Care-for-Rare Foundation als Wissenschaftsstiftung des Jahres,,,,3,
+88,Karl-Arnold-Preis,,,,3,
+89,Hans-Hellmann Preis,,,,3,
+90,Klung-Wilhelmy-Weberbank-Preis,,,,3,
+91,Preis des Verbandes der Historiker Deutschlands für hervorragende Leistungen des wissenschaftlichen Nachwuchses,,,,3,
+92,Gleim-Literaturpreis,,,,3,
+93,Anna Kürger Preis des Wissenschaftskollegs zu Berlin,,,,3,
+94,NDR Kultur Sachbuchpreis,,,,3,
+95,Gerda Henkel Preis,,,,3,
+96,Toynbee Prize,,,,3,
+97,Abt Jerusalem-Preis,,,,3,
+98,Balzan-Preis,,,,3,
+100,BioFuture-Preis für junge Forscher,,,,3,
+101,Tel Aviv University Prize,,,,3,
+102,Braunschweiger Forschungspreis,,,,3,
+103,Manfred-Eigen-Preis der Göttinger Akademie der Wissenschaften,,,,3,
+104,"Seeger-Preis der Deutschen Keramik Gesellschaft ",,,,3,
+105,"Lautenschläger-Forschungspreis der Universität Heidelberg ",,,,3,
+106,"Ilse-und-Helmut-Wachter-Preis der Medizinischen Universität Innsbruck ",,,,3,
+107,"Pro-Scientia Preis der Eckhart Buddecke-Stiftung, Münster ",,,,3,
+108,"Victor-Moritz-Goldschmidt-Preis der Deutschen Mineralogischen Gesellschaft ",,,,3,
+109,Sir-Bernard-Katz-Preis,,,,3,
+110,"Wissenschaftspreis Niedersachsen ",,,,3,
+111,Heinrich-Wieland-Preis,,,,3,
+112,"Communitas-Preis der Max-Planck-Gesellschaft ",,,,3,
+113,Hegel-Preis der Stadt Stuttgart,,,,3,
+114,Kant-Weltbürger-Preis der Freiburger Immanuel Kant-Stiftung,,,,3,
+115,Gay-Lussac-Humboldt-Preis,,,,3,
+116,EMS-Preis,,,,3,
+117,"Heinz Gumin Preis ",,,,3,
+118,Karl-Lohmann-Preis,,,,3,
+119,Descartes-Forschungspreis der EU,,,,3,
+120,Landesforschungspreis des Landes Baden-Württemberg,,,,3,
+121,Erwin-Schrödinger-Preis,,,,3,
+122,Erich-Hückel-Preis,,,,3,
+123,"Michael-Preis ",,,,3,
+124,"Adolf-Fick-Preis der Physikalisch-Medizinischen Gesellschaft ",,,,3,
+125,Hanns-Lilje-Preis,,,,3,
+126,"Theologischer Preis der Salzburger Hochschulwochen ",,,,3,
+127,"Preis der Freunde der Universität Stuttgart ",,,,3,
+128,"Arnold-Eucken-Preis der VDI-Gesellschaft Verfahrenstechnik und Chemie-Ingenieurwesen ",,,,3,
+129,"Literaturpreis der Schwulen Buchläden ",,,,3,
+130,"Chauvenet-Preis der Mathematical Association of America ",,,,3,
+131,"Berliner Wissenschaftspreis ",,,,3,
+132,Bennigsen-Förderpreis,,,,3,
+133,Robert-Piloty-Preis,,,,3,
+134,"Norddeutscher Wissenschaftspreis ",,,,3,
+135,Physik-Preis (Göttinger Akademie der Wissenschaften),,,,3,
+136,"Bremer Studienpreis im Bereich Natur- und Ingenieurwissenschaften ",,,,3,
+137,"Patricia-Pahamy-Preis ",,,,3,
+138,"Dozentenpreis des Verbands der Chemischen Industrie ",,,,3,
+140,"Otto-Klung-Preis für Chemie ",,,,3,
+141,"Steinhofer-Preis der Universität Freiburg ",,,,3,
+142,"Doktorandenpreis der Heidelberger Gesellschaft für Molekulare Biologie ",,,,3,
+143,"Akademiepreis der Heidelberger Wissenschaften ",,,,3,
+144,Preis der deutschen Hirnliga e.V.,,,,3,
+145,"Potamkin-Preis der Amerikanischen Akademie für Neurologie ",,,,3,
+146,"Brain Prize ",,,,3,
+147,"Hartwig Piepenbrock-DZBNE Preis ",,,,3,
+148,"Rank Prize for Opto-Electronics ",,,,3,
+149,"Wiley Prize in Biomedical Sciences ",,,,3,
+150,Louisa Gross Horwitz Prize,,,,3,
+151,"H.P. Heineken Preis für Biochemie und Biophysik ",,,,3,
+152,"Massry-Preis ",,,,3,
+153,"Shaw Prize ",,,,3,
+154,"Herbert Tabor Forschungspreis ",,,,3,
+155,"DGKL-Preis Biochemische Analytik ",,,,3,
+156,"Paul-Ehrich und Ludwig Darmstaedter Preis ",,,,3,
+157,"Breakthrough Prize in Life Sciences ",,,,3,
+158,"Nakasone Prize ",,,,3,
+159,"Fakultätspreis der Philosophisch-historischen Fakultät der Universität Bonn ",,,,3,
+160,"Fischer-Appelt-Preis ",,,,3,
+162,"Manfred-von-Ardenne-Preis ",,,,3,
+163,"Rudolf-Jaeckel-Preis of the German Society for Vacuum ",,,,3,
+164,Technologietransferpreis der DPG,,,,3,
+165,"Sächsischer Transferpreis ",,,,3,
+166,Jan Rajchmann Prize of the SID,,,,3,
+167,"Europäischer Erfinderpreis des Europäischen Patentamts für das Lebenswerk ",,,,3,
+168,Promotionspreis der Technischen Fakultät (FAU),,,,3,
+169,"Wolfgang-Finkelnburg-Preis ",,,,3,
+170,International Prize for Translational Neuroscience of the Gertrud Reemtsma Foundation,,,,3,
+171,"Paul Doistau-Émile Blutet Preis für Mathematik ",,,,3,
+172,"Philosophischer Buchpreis ",,,,3,
+173,"Albrecht Kossel Preis der Gesellschaft Deutscher Chemiker ",,,,3,
+175,"Karl Freudenberg Preis der Heidelberger Akademie der Wissenschaften ",,,,3,
+176,"Biologiepreis der Akademie der Wissenschaften Göttingen ",,,,3,
+177,"Otto Mangold Preis der Gesellschaft für Entwicklungsbiologie ",,,,3,
+178,"Promotionspreis der Westfälischen Wilhelms-Universität Münster ",,,,3,
+179,"Boehringer Ingelheim Preis ",,,,3,
+180,"Preis des Stifterverbandes für die Deutsche Wissenschaft ",,,,3,
+181,"Ruhrpreis für Wissenschaft und Kunst ",,,,3,
+182,"Wöhler Preis für ressourcenschonende Prozesse ",,,,3,
+183,"Hamburger Wissenschaftspreis ",,,,3,
+184,Wilhelm Klemm Preis der GDCh,,,,3,
+185,"Carl Friedrich von Wiezsäcker Preis ",,,,3,
+186,"Alwin Mittasch Preis ",,,,3,
+187,"Gutenberg Preis ",,,,3,
+188,"Sigmund Freud Preis für wissenschaftliche Prosa ",,,,3,
+189,"Preis der Aby Warburg Stiftung in Hamburg ",,,,3,
+190,"Kulturförderpreis der Alexander Clavel Stiftung in Riehen ",,,,3,
+191,"Studienpreis des Fonds der Chemischen Industrie ",,,,3,
+192,"Justus von Liebig Preis des Fonds der Chemischen Industrie ",,,,3,
+193,"Nachwuchsforscherpreis Stiftung Werner von Siemens Ring ",,,,3,
+194,"ADUC Preis ",,,,3,
+195,"Preis der jungen Forscher im Bereich Medizin und Pharmazie ",,,,3,
+196,"Otto Bayer Preis ",,,,3,
+197,Heinz Heckhausen Jungwissenschaftler Preis der Deutschen Gesellschaft für Psychologie,,,,3,
+199,"Tsungming Tu Preis ",,,,3,
+200,"Förderpreis LMU ",,,,3,
+201,"Forschungspreis Nationale Akademie der Wissenschaften Leopoldina ",,,,3,
+202,"Albert Maucher Preis für Geowissenschaften ",,,,3,
+203,"Nachwuchsforscherpreis der Gesellschaft für Molekularbiologie ",,,,3,
+204,Richtzenhain-Preis für Krebsforschung des DKFZ Heidelberg,,,,3,
+206,"Doktorandenpreis LMU München ",,,,3,
+207,"Rudolf-Kaiser-Preis, Rudolf-Kaiser-Stiftung Essen ",,,,3,
+208,"International Commission for Optics (ICO) Prize, Palaiseau, Frankeich",,,,3,
+209,"Senior Prize for Fundamental Aspects of Quantum Electronics and Optics, European Physical Society (EPS)",,,,3,
+210,Harvey Prize,,,,3,
+211,Der Goldene Sommerfeld – Preis der guten Lehre in der Physik,,,,3,
+212,"Preis für gute Lehre – Prize for excellence in teaching in Bavaria, Freistaat Bayern",,,,3,
+213,"Hightech-Preis des Bayerischen Ministerpräsidenten, Bayerische Staatsregierung sowie Bayerische Akademie der Wissenschaften (BAdW)",,,,3,
+215,"Fritz-Külz-Preis Deutsche Gesellschaft für Pharmakologie und Toxikologie (DGPT) ",,,,3,
+216,"Forschungspreis Deutsche Stiftung für Herzforschung ",,,,3,
+217,"Preis Herbert und Hedwig Eckelmann-Stiftung, Frankfurt am Main ",,,,3,
+218,"Albert-Fraenkel-Preis, DGK",,,,3,
+219,"Alfried Krupp-Förderpreis für junge Hochschullehrer, Alfried Krupp von Bohlen und Halbach-Stiftung, Essen ",,,,3,
+220,"Forßman Preis, Stiftung Kardiologie 2000, Ruhr-Universität Bochum",,,,3,
+221,"Preis für klinische Forschung, GlaxoSmithKline-Stiftung, München",,,,3,
+222,"Willy Pitzer-Preis, Willy Robert Pitzer Stiftung",,,,3,
+223,"Paul-Morawitz-Preis, Deutsche Gesellschaft für Kardiologie – Herz- und Kreislaufforschung (DGK",,,,3,
+224,"Universitätspreis, Universität zu Köln ",,,,3,
+225,"Carl-Duisberg-Gedächtnispreis, Gesellschaft Deutscher Chemiker   ",,,,3,
+226,"Akademiepreis der Berlin-Brandenburgischen Akademie der Wissenschaften ",,,,,
+227,"Preisträger, Wissenschaftsbuch des Jahres ",,,,3,
+228,"Wilhelm-Foerster-Preis, URANIA-Verein „Wilhelm Foerster“ Potsda",,,,3,
+229,Prof. Luigi Tartufari International Prize,,,,3,
+230,"Heinz‐Sauermann‐Preis, Best Diploma Thesis, Gesellschaft für experimentelle Wirtschaftsforschung",,,,3,
+231,"Prize Best Ph.D. Thesis, Economic Science Association",,,,3,
+232,"Otto‐von‐Guericke‐Forschungspreis, Otto‐von‐Guericke‐Universität Magdeburg ",,,,3,
+233,"Hermann‐Heinrich‐Gossen‐Preis, Verein für Socialpolitik",,,,3,
+234,"Hans Kelsen‐Preis, Universität zu Köln",,,,3,
+235,"Umweltpreis der Stadt Karlsruhe ",,,,3,
+236,"Ernest-Solvay-Preis ",,,,3,
+237,"Buchpreis von H-Soz-u-Kult – Informations - und Kommunikationsplattform für Historikerinnen und Historiker an der Humboldt-Universität zu Berlin  ",,,,3,
+238,Innovationspreis des Landes Nordrhein-Westfalen in der Kategorie Ehrenprei,,,,3,
+239,"Preis des Historischen Kollegs ",,,,3,
+240,Sachbuch-Preis der Leipziger Buchmesse,,,,3,
+241,"Röntgenpreis der Justus-Liebig-Universität Gießen   ",,,,3,
+242,"Otto-Schott-Forschungspreis der Ernst Abbé Stiftung   ",,,,3,
+243,"Thüringer Forschungspreis    ",,,,3,
+244,"Lothar-Späth-Preis   ",,,,3,
+245,"Kaiser-Friedrich-Forschungspreis   ",,,,3,
+246,"Innovationspreis der Hansestadt Rostock 
+ ",,,,3,
+247,"Karl-Ziegler-Preis der Gesellschaft Deutscher Chemiker ",,,,3,
+248,10. Eppendorf-Preis für europäische Nachwuchsforscher,,,,3,
+249,Paula und Richard von Hertwig-Preis,,,,3,
+250,Arthur Burkhardt-Preis,,,,3,
+251,"Franz Vogt-Preis der Universität Gießen ",,,,3,
+252,"Medinfar European Prize in Physiology ",,,,3,
+253,"Wittgenstein-Preis des Österreichischen Bundesministeriums für Wissenschaft, Forschung und Wirtschaft ",,,,3,
+254,Fritz Kohlrausch Preis,,,,3,
+256,Wissenschaftspreis der Stadt Wien,,,,3,
+257,"King Faisal Prize for Science, King Faisal Foundation",,,,3,
+258,Wolf Prize in Physics,,,,3,
+259,Nobelpreis für Physik,,,,3,
+260,Charlotte- und Karl- Bühler-Preis,,,,3,
+261,"Collatz-Preis ",,,,3,
+262,Wissenschaftspreis der Albert-Osswald-Stiftung,,,,3,
+263,FEBS-Anniversary Prize,,,,3,
+264,Chiara D’Onofrio-Preis,,,,3,
+265,"Friedrich-Wilhelm-Preis der RWTH Aachen für die Diplomarbeit   ",,,,3,
+266,"Carl-Zerbe-Preis ",,,,3,
+267,"DECHEMA-Preis der Max-Buchner-Forschungsstiftung   ",,,,3,
+268,"Innovationspreis der deutschen Wirtschaft 
+",,,,3,
+269,Ernst-und-Berta-Scharrer-Preis der Deutschen Gesellschaft für Endokrinologie,,,,3,
+270,"Ferdinand-Bertram-Preis der Deutschen Diabetes-Gesellschaft ",,,,3,
+271,"Grand Prix Jean Ricard, Societé Française de Physique",,,,3,
+272,Alzheimer-Forschungspreis,,,,3,
+273,Remedios Caro Almela- Prize for Research Developmental Neurobiology,,,,3,
+274,Roger de Spoelberch Prize,,,,3,
+275,Schellenberg Forschungspreis,,,,3,
+276,"Future Insight Prize, Merck KGaA ",,,,3,
+277,Peter Haasen Preis,,,,3,
+278,Masing-Gedächtnispreis der Deutschen Gesellschaft für Materialkunde (DGM),,,,3,
+279,Rössler-Preis,,,,3,
+280,"Wettbewerb Wandel Gestalten! des Stifterverbandes für die deutsche Wissenschaft   ",,,,3,
+281,"Hessischer Hochschulpreis Exzellenz in der Lehre    ",,,,3,
+282,"Universitätspreis für herausragende Doktorarbeit, Universität Münster ",,,,3,
+283,"Dieter-Rampacher-Preis der Max-Planck-Gesellschaft    ",,,,3,
+284,"Charles Albert Shull Preis der American Society of Plant Biologists ",,,,3,
+285,"McClintock Prize for Plant Genetics and Genome Studies ",,,,3,
+286,"Novozymes Preis der Novo Nordisk Stiftung   ",,,,3,
+287,"Prix Reinach ",,,,3,
+288,Prix Gantrelle,,,,3,
+289,Mercurio Preis,,,,3,
+290,Kulturpreis des Fürsten Franz Joseph von Liechtenstein,,,,3,
+291,"Vigene Prize for the best doctoral dissertation in the Humanities at the University of Fribourg ",,,,3,
