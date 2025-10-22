@@ -2,9 +2,9 @@
 
 **id**
 
-- Personen → Initialen von Vor- und Nachnamen + Jahr, an dem Preis gewonnen wurde (UL25, UL90)
+- Personen → Initialen von Vor- und Nachnamen + Jahr, in dem Preis gewonnen wurde (UL25, UL90)
 - Institute → Abkürzung der Institution (LMU, …)
-- Preise → Nummerierung (zuerst in extra Tabelle) (1,2,...)
+- Preise → Nummerierung (1,2,...)
 
 **name**
 
