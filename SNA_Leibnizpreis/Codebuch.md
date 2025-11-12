@@ -39,15 +39,15 @@
 ## **Edges**
 
 **from** 
-id Personen
+- id Personen
 
 **to** 
-id Institution oder Preis
+- id Institution oder Preis
 
 **Jahr**
-Jahr in dem Wissenschaftler*in gewonnen hat (nur bei Preisen, bei Institutionen nichts)
+- Jahr in dem Wissenschaftler*in gewonnen hat (nur bei Preisen, bei Institutionen nichts)
 
 **Zeitpunkt** 
-Nur bei Preisen 
-1 = Gewinn eines Preises vor und im selben Jahr wie der Leibniz Preis
-2 = Gewinn eines Preises nach Leibniz Preis 
+- Nur bei Preisen 
+- 1 = Gewinn eines Preises vor und im selben Jahr wie der Leibniz Preis
+- 2 = Gewinn eines Preises nach Leibniz Preis 
