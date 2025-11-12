@@ -4,7 +4,7 @@
 
 - Personen → Initialen von Vor- und Nachnamen + Jahr, in dem Preis gewonnen wurde (UL25, UL90)
 - Institute → Abkürzung der Institution (LMU, …)
-- Preise → Nummerierung (zuerst in extra Tabelle) (1,2,...)
+- Preise → Nummerierung (1,2,...)
 
 **name**
 
@@ -14,27 +14,32 @@
 - Nicht den Gottfried Leibniz Preis eintragen!
 - Nur alles was Preis heißt (keine Medaillen etc.)
 
+**Geburtsjahr**
+
+- Nur für Personen
+- Bspw. 1965
+
 **Jahr**
 
 - Jahr in dem Wissenschaftler*innen den Leibnizpreis gewonnen haben
 - Nur bei Personen, bei den anderen leer lassen
+  
+**geschlecht**
 
+- 1 = weiblich
+- 2 = männlich 
+- 3 = divers
+  
 **type**
 
 - 1 = Personen 
 - 2 = Institute 
 - 3 = Preise 
 
-**gender**
+**alter_lp_gewonnen**
 
-- 1 = weiblich
-- 2 = männlich 
-- 3 = divers
-
-**Geburtsjahr**
-
-- Nur für Personen
-- Bspw. 1965
+- Alter in dem Jahr, in dem der Leibnizpreis gewonnen wurde
+- Rechnung des Jahres, unabhängig vom Geburtsmonat 
 
 ## **Edges**
 
