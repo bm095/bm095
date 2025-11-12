@@ -14,12 +14,12 @@
 - Nicht den Gottfried Leibniz Preis eintragen!
 - Nur alles was Preis heißt (keine Medaillen etc.)
 
-**Geburtsjahr**
+**geburtsjahr**
 
 - Nur für Personen
 - Bspw. 1965
 
-**Jahr**
+**jahr**
 
 - Jahr in dem Wissenschaftler*innen den Leibnizpreis gewonnen haben
 - Nur bei Personen, bei den anderen leer lassen
@@ -49,10 +49,10 @@
 **to** 
 - id Institution oder Preis
 
-**Jahr**
+**jahr**
 - Jahr in dem Wissenschaftler*in gewonnen hat (nur bei Preisen, bei Institutionen nichts)
 
-**Zeitpunkt** 
+**zeitpunkt** 
 - Nur bei Preisen 
 - 1 = Gewinn eines Preises vor und im selben Jahr wie der Leibniz Preis
 - 2 = Gewinn eines Preises nach Leibniz Preis 
