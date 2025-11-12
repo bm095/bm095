@@ -1,34 +1,34 @@
-﻿id,name,geburtsjahr,jahr,geschlecht,type,"Alter, LP gewonnen"
+﻿id,name,geburtsjahr,jahr,geschlecht,type,alter_LP_gewonnen
 KF00,Klaus Fiedler,1951,2000,2,1,49
-PG00,"Peter Greil ",1954,2000,2,1,46
+PG00,Peter Greil,1954,2000,2,1,46
 MH00,Matthias Hentze,1960,2000,2,1,40
 PH00,Peter Herzig,1954,2000,2,1,46
-RJ00,"Reinhard Jahn ",1950,2000,2,1,50
+RJ00,Reinhard Jahn,1950,2000,2,1,50
 AL00,Aditi Lahiri,1952,2000,1,1,48
 GLW00,Gertrude Lübbe-Wolff,1953,2000,1,1,47
 DL00,Dieter Lüst,1956,2000,2,1,44
 SM00,Stefan Müller,1962,2000,2,1,38
 MP00,Manfred Pinkal,1949,2000,2,1,51
-IS00,"Ilme Schlichting ",1960,2000,1,1,40
+IS00,Ilme Schlichting,1960,2000,1,1,40
 FT00,Friedrich Temps,1955,2000,2,1,45
 MW00,Martin Wegener,1961,2000,2,1,39
 HW00,Hans-Joachim Werner,1950,2000,2,1,50
 JF01,Jochen Feldmann,1961,2001,2,1,40
-EH01,"Eduard Hurt ",1955,2001,2,1,46
+EH01,Eduard Hurt,1955,2001,2,1,46
 HK01,Hans Keppler,1962,2001,2,1,39
-AK01,"Arthur Konnerth ",1953,2001,2,1,48
+AK01,Arthur Konnerth,1953,2001,2,1,48
 UK01,Ulrich Konrad,1957,2001,2,1,44
-MK01,"Martin Krönke ",1953,2001,2,1,48
-JK01,"Joachim Küpper ",1952,2001,2,1,49
+MK01,Martin Krönke,1953,2001,2,1,48
+JK01,Joachim Küpper,1952,2001,2,1,49
 CM01,Christoph Markschies,1962,2001,2,1,39
-WM01,"Wolfang Marquardt ",1956,2001,2,1,45
+WM01,Wolfang Marquardt,1956,2001,2,1,45
 HR01,Helge Ritter,1958,2001,2,1,43
 GZ01,Günther Ziegler,1963,2001,2,1,38
-CBK02,"Carmen Birchmeier-Kohler ",1955,2002,1,1,47
-WD02,"Wolfgang Dahmen ",1949,2002,2,1,53
-WCD02,"Wolf-Christian Dullo ",1954,2002,2,1,48
-BE02,"Bruno Eckhardt ",1960,2002,2,1,42
-MF02,"Michael Famulok ",1960,2002,2,1,42
+CBK02,Carmen Birchmeier-Kohler,1955,2002,1,1,47
+WD02,Wolfgang Dahmen,1949,2002,2,1,53
+WCD02,Wolf-Christian Dullo,1954,2002,2,1,48
+BE02,Bruno Eckhardt,1960,2002,2,1,42
+MF02,Michael Famulok,1960,2002,2,1,42
 CH02,"Christian Haass ",1960,2002,2,1,42
 FH02,"Franz-Ulrich Hartl ",1957,2002,2,1,45
 TH02,"Thomas Hengartner ",1960,2002,2,1,42
@@ -463,4 +463,5 @@ FSU,"Universität Jena ",,,,2,
 288,Prix Gantrelle,,,,3,
 289,Mercurio Preis,,,,3,
 290,Kulturpreis des Fürsten Franz Joseph von Liechtenstein,,,,3,
+
 291,"Vigene Prize for the best doctoral dissertation in the Humanities at the University of Fribourg ",,,,3,
