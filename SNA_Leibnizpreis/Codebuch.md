@@ -11,7 +11,7 @@
 - Personen → erst Vorname, dann Nachname, kein Zweitname, kein Dr. oder Prof. Titel (Bspw. Volker Haucke) 
 - Institute → Name der Institution (Bspw. Universität Bremen, Ludwig Maximilians Universität München) 
 - Preis → offizieller Name, ohne Bindestriche und mit allem (Bspw. "Deutscher Psychologie-Preis der Deutschen Gesellschaft für Psychologie" wird zu "Deutscher Psychologie Preis der Deutschen Gesellschaft für Psychologie") 
-- Nicht den Gottfried Leibniz Preis eintragen!
+- Nicht den Gottfried Leibniz-Preis eintragen!
 - Nur alles was Preis heißt (keine Medaillen etc.)
 
 **geburtsjahr**
@@ -21,7 +21,7 @@
 
 **jahr**
 
-- Jahr in dem Wissenschaftler*innen den Leibnizpreis gewonnen haben
+- Jahr in dem Wissenschaftler*innen den Leibniz-Preis gewonnen haben
 - Nur bei Personen, bei den anderen leer lassen
   
 **geschlecht**
@@ -38,7 +38,7 @@
 
 **alter_lp_gewonnen**
 
-- Alter in dem Jahr, in dem der Leibnizpreis gewonnen wurde
+- Alter in dem Jahr, in dem der Leibniz-Preis gewonnen wurde
 - Rechnung des Jahres, unabhängig vom Geburtsmonat 
 
 ## **Edges**
